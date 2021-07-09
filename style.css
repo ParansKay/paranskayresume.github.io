@@ -1,7 +1,15 @@
 body {
 
   font-family: Avenir, Nexa, Arial, Helvatica, sans-serif;
-  margin: 10% 10%;
+  margin: 10% 30%;
+}
+
+.divider {
+  color: #e0a608;
+}
+
+.emphasis{
+  color: #b18100;
 }
 
 .resume-title{
@@ -45,6 +53,32 @@ img{
  text-transform: uppercase; 
 }
 
+.normandale-exp{
+  border-bottom: 1px solid #e0a608;
+  padding-bottom: 15px;
+}
+
+.marketing2-exp{
+  background-color: #eaeaea;
+  border-bottom: 1px solid #e0a608;
+  padding-bottom: 15px;
+  padding-top: 1px;
+}
+.marketing1-exp{
+  border-bottom: 1px solid #e0a608;
+  padding-bottom: 15px;
+}
+
+.sephora{
+  background-color: #eaeaea;
+  border-bottom: 1px solid #e0a608;
+  padding-bottom: 15px; 
+  padding-top: 1px;
+}
+
+.freelance-exp{
+  padding-bottom: 0.2px; 
+}
 .education{
   background-color: #e0a608;
   color: white;
