@@ -1,1 +1,60 @@
+body {
 
+  font-family: Avenir, Nexa, Arial, Helvatica, sans-serif;
+  margin: 10% 10%;
+}
+
+.resume-title{
+  text-transform: uppercase;
+  font-size: 30px;
+  width: 50%;
+  margin-bottom: -200px;
+}
+img{
+  border: 5px solid #e0a608;
+  border-radius: 50%;
+  width: 20%; 
+  float: right;
+}
+.profesh-sum-header{
+  margin-top: 250px;
+  background-color: #e0a608;
+  color: white;
+  padding-left: 2%;
+  text-transform: uppercase;
+}
+
+.swprofish-header{
+  background-color: #e0a608;
+  color: white;
+  padding-left: 2%;
+  text-transform: uppercase;
+}
+
+.skills{
+  background-color: #e0a608;
+  color: white;
+  padding-left: 2%;
+ text-transform: uppercase; 
+}
+
+.rep-exp{
+  background-color: #e0a608;
+  color: white;
+  padding-left: 2%;
+ text-transform: uppercase; 
+}
+
+.education{
+  background-color: #e0a608;
+  color: white;
+  padding-left: 2%;
+ text-transform: uppercase; 
+}
+
+.recognitions{
+   background-color: #e0a608;
+  color: white;
+  padding-left: 2%;
+ text-transform: uppercase; 
+}
